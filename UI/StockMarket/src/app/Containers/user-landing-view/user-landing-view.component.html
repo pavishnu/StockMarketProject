@@ -1,0 +1,18 @@
+<h1>Stock Market</h1>
+
+<body class="full-height">
+    <div>
+        <div class="nav row">
+            
+            <span ><button class="headers" (click)="onCompareCompanyClick()">Compare Company</button></span>
+            <span ><button class="headers" (click)="onIpoClick()">IPO Details</button></span>
+            <span ><button class="headers" (click)="onOtherClick()">Other</button></span>
+            <span ><button class="headers" (click)="onLogOutClick()">Logout</button></span>
+        </div>
+        <div class="row" *ngIf="compareCompanyView"><app-compare-company-view></app-compare-company-view></div>
+        <div class="row" *ngIf="ipoView"><app-user-ipo-view></app-user-ipo-view></div>
+        <div class="row" *ngIf="otherView"><app-user-other-view></app-user-other-view></div>
+
+    </div>
+    
+</body>

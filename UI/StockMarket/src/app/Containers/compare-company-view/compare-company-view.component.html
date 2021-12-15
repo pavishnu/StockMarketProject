@@ -1,0 +1,6 @@
+
+<div>Company Name<input type="text" [(ngModel)]="name" required></div>
+<button type="submit" (click)="checkGraph()">Check Graph</button>
+<div *ngIf="graphView" class="chart-container" style="position: relative;">    
+    <canvas id="canvas"></canvas>    
+  </div>

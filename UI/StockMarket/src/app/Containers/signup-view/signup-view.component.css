@@ -1,0 +1,25 @@
+h1{
+    color:rgb(105, 175, 55);
+      background-color: #495057;
+    padding: 1rem;
+      
+      margin:0rem;
+}
+body {
+    background: #007bff;
+    background: linear-gradient(to right, #0062E6, #33AEFF);
+    height: 50vmax;
+    grid-template-columns: fit-content(300px) fit-content(300px) 1fr;
+  }
+  .danger{
+    color:red;
+  }
+  .btn-signin{
+    width: 30rem;
+    
+  }
+  .btn-cancel{
+    width: 30rem;
+    background: rgb(241, 190, 95);
+    color: white;
+  }

@@ -1,0 +1,93 @@
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\ocelot.json
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.exe
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.deps.json
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.runtimeconfig.json
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.runtimeconfig.dev.json
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.dll
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.pdb
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.csprojAssemblyReference.cache
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.AssemblyInfoInputs.cache
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.AssemblyInfo.cs
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.csproj.CoreCompileInputs.cache
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.csproj.CopyComplete
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.Gateway.StaticWebAssets.Manifest.cache
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.Gateway.StaticWebAssets.xml
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.dll
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.pdb
+C:\Users\Naman\Documents\GitHub\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.genruntimeconfig.cache
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\ocelot.json
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.StaticWebAssets.xml
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.exe
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.deps.json
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.runtimeconfig.json
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.runtimeconfig.dev.json
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.dll
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.pdb
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.csproj.AssemblyReference.cache
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.AssemblyInfoInputs.cache
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.AssemblyInfo.cs
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.csproj.CoreCompileInputs.cache
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.Gateway.StaticWebAssets.Manifest.cache
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.csproj.CopyComplete
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.dll
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.pdb
+C:\Users\spavi\OneDrive\Desktop\NamanSharma_StockMarket\Middleware\StockMarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.genruntimeconfig.cache
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\ocelot.json
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.StaticWebAssets.xml
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.exe
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.deps.json
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.runtimeconfig.json
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.runtimeconfig.dev.json
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.dll
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\StockMarket.Gateway.pdb
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.csproj.AssemblyReference.cache
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.AssemblyInfoInputs.cache
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.AssemblyInfo.cs
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.csproj.CoreCompileInputs.cache
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\staticwebassets\StockMarket.Gateway.StaticWebAssets.Manifest.cache
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.RazorTargetAssemblyInfo.cache
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.csproj.CopyComplete
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.dll
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.pdb
+D:\Training\Web API\StockmarketCharting\Middleware\Stockmarket\StockMarket.Gateway\obj\Debug\netcoreapp3.1\StockMarket.Gateway.genruntimeconfig.cache

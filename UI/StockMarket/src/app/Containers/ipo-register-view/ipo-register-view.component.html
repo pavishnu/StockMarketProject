@@ -1,0 +1,49 @@
+<form [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+    
+    <div class="form-group">
+        <label>Company Name</label>
+        <input type="text" formControlName="companyName" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.companyName.errors }" />
+        <div *ngIf="submitted && f.companyName.errors" class="invalid-feedback danger">
+            <div *ngIf="f.companyName.errors.required">Company Name is required</div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label>Stock Exchange</label>
+        <input type="text" formControlName="stockExchange" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.stockExchange.errors }" />
+        <div *ngIf="submitted && f.stockExchange.errors" class="invalid-feedback danger">
+            <div *ngIf="f.stockExchange.errors.required">Stock Exchange is required</div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label>Price Per Share</label>
+        <input type="number" formControlName="pricePerShare" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.pricePerShare.errors }" />
+        <div *ngIf="submitted && f.pricePerShare.errors" class="invalid-feedback danger">
+            <div *ngIf="f.pricePerShare.errors.required">Price Per Share is required</div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label>No Of Shares</label>
+        <input type="text" formControlName="noOfShares" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.noOfShares.errors }" />
+        <div *ngIf="submitted && f.noOfShares.errors" class="invalid-feedback danger">
+            <div *ngIf="f.noOfShares.errors.required">No Of Shares is required</div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label>Open Date Time</label>
+        <input type="datetime" formControlName="openDateTime" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.openDateTime.errors }" />
+        <div *ngIf="submitted && f.openDateTime.errors" class="invalid-feedback danger">
+            <div *ngIf="f.openDateTime.errors.required">Open Date Time is required</div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label>Remarks</label>
+        <input type="text" formControlName="remarks" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.remarks.errors }" />
+        <div *ngIf="submitted && f.remarks.errors" class="invalid-feedback danger">
+            <div *ngIf="f.remarks.errors.required">Remarks is required</div>
+        </div>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary btn-lg btn-signin btn-block text-uppercase">Register</button>
+    </div>
+    
+</form>

@@ -1,0 +1,62 @@
+
+  
+  h1{
+    color:rgb(105, 175, 55);
+      background-color: #495057;
+    padding: 0rem;
+      margin:0rem;
+}
+.full-height {
+  
+  background: linear-gradient(to right, #0062e2, #5ebefd);
+  width: 100%;
+  height: max-content+8rem;
+  display: flex;
+  flex-direction: column;
+ 
+}
+.headers{
+    font-weight: 500;
+    margin: 2rem;
+    color: white;
+    background: linear-gradient(to right, #f113ee, #7d05d8);
+    border-radius: 5px;
+}
+.headers:hover{
+  transform: scale(1.05); 
+}
+.danger{
+  color: red;
+}
+.jumbotron{
+  background: linear-gradient(to right, #0062e2, #5ebefd);
+}
+body {
+  overflow: hidden;
+  margin:0;
+}
+.row{
+  background: white;
+  margin: 4rem;
+  margin-top: 2rem;
+  height: fit-content;
+  border-radius: 20px;
+}
+
+.btn-signin {
+  padding: 1rem ;
+  color: white;
+  background-color: #0062E6;
+  width: 13rem;
+}
+
+.btn-signup {
+  padding: 1rem ;
+  color: white;
+  background-color: #e52110;
+  width: 13rem;
+}
+.btn-signup:hover,.btn-signin:hover {
+
+  transform: scale(1.05); 
+}

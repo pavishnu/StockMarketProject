@@ -1,0 +1,19 @@
+<h1>Stock Market</h1>
+
+<body class="full-height">
+    <div>
+        <div class="nav row">
+            <span ><button class="headers" (click)="onImportClick()">Import Data</button></span>
+            <span ><button class="headers" (click)="onCompanyClick()">Manage Company</button></span>
+            <span ><button class="headers" (click)="onExchangeClick()">Manage Exchange</button></span>
+            <span ><button class="headers" (click)="onIpoClick()">Update IPO Details</button></span>
+            <span ><button class="headers" (click)="onLogOutClick()">Logout</button></span>
+        </div>
+        <div class="row" *ngIf="companyView"><app-company-view></app-company-view></div>
+        <div class="row" *ngIf="exchangeView"><app-exchange-view></app-exchange-view></div>
+        <div class="row" *ngIf="ipoView"><app-ipo-view></app-ipo-view></div>
+        <div class="row" *ngIf="importView"><app-import-data-view></app-import-data-view></div>
+
+    </div>
+    
+</body>

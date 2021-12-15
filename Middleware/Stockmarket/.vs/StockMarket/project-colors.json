@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19f87f51-51da-467a-b175-d6e7d576f5d5": {
+      "ProjectGuid": "19f87f51-51da-467a-b175-d6e7d576f5d5",
+      "DisplayName": "StockMarket.AccountAPI",
+      "ColorIndex": 0
+    },
+    "e110bb31-bc3e-475b-9e50-ad1b87301eb6": {
+      "ProjectGuid": "e110bb31-bc3e-475b-9e50-ad1b87301eb6",
+      "DisplayName": "StockMarket.AdminAPI",
+      "ColorIndex": 1
+    },
+    "11c971cc-d139-42c1-8eca-a97919b21fd5": {
+      "ProjectGuid": "11c971cc-d139-42c1-8eca-a97919b21fd5",
+      "DisplayName": "StockMarket.ExcelAPI",
+      "ColorIndex": 2
+    },
+    "bc934da1-7063-41b6-b62c-d47128d3321b": {
+      "ProjectGuid": "bc934da1-7063-41b6-b62c-d47128d3321b",
+      "DisplayName": "StockMarket.Gateway",
+      "ColorIndex": 3
+    },
+    "09ed7a72-977d-4489-817b-1cacec154ae1": {
+      "ProjectGuid": "09ed7a72-977d-4489-817b-1cacec154ae1",
+      "DisplayName": "StockMarket.UserAPI",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,36 @@
+
+<div class="container">
+    
+    <table *ngIf="!addCompanyClicked && !editCompanyClicked" class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>CompanyName</th>
+                <th>Turnover</th>
+                <th>CEO</th>
+                <th>Board Of Directors</th>
+                <th>Listed In SE</th>
+                <th>Sector</th>
+                <th>Stock Code</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let item of companyList">
+                <td>{{item.companyName}}</td>
+                <td>{{item.turnover}}</td>
+                <td>{{item.ceo}}</td>
+                <td>{{item.boardOfDirectors}}</td>
+                <td>{{item.listedInSe}}</td>
+                <td>{{item.sector}}</td>
+                <td>{{item.stockCode}}</td>
+                <td><button (click)="onEdit(item)">Edit</button></td>
+                <td><button (click)="onDelete(item.companyName)">Delete</button></td>
+            </tr>
+        </tbody>
+        <button (click)="onAdd()">Add</button>
+    </table>
+    
+    <div *ngIf="addCompanyClicked && !editCompanyClicked"><app-company-register-view></app-company-register-view></div>
+    <div *ngIf="editCompanyClicked && !addCompanyClicked"><app-company-update-view></app-company-update-view></div> 
+    
+</div>
+

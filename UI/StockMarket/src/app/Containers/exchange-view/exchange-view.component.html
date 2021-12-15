@@ -1,0 +1,32 @@
+
+<div class="container">
+    
+    <table *ngIf="!addExchangeClicked && !editExchangeClicked" class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>StockExchangeName</th>
+                <th>Brief</th>
+                <th>ContactAddress</th>
+                <th>Remarks</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let item of exchangeList">
+                <td>{{item.id}}</td>
+                <td>{{item.stockExchangeName}}</td>
+                <td>{{item.brief}}</td>
+                <td>{{item.contactAddress}}</td>
+                <td>{{item.remarks}}</td>
+                <td><button (click)="onEdit(item)">Edit</button></td>
+                <td><button (click)="onDelete(item.id)">Delete</button></td>
+            </tr>
+        </tbody>
+        <button (click)="onAdd()">Add</button>
+    </table>
+    
+    <div *ngIf="addExchangeClicked && !editExchangeClicked"><app-exchange-register-view></app-exchange-register-view></div>
+    <div *ngIf="editExchangeClicked && !addExchangeClicked"><app-exchange-update-view></app-exchange-update-view></div> 
+    
+</div>
+

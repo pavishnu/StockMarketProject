@@ -1,0 +1,30 @@
+
+<div class="container">
+    
+    <table *ngIf="!addIpoClicked && !editIpoClicked" class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>CompanyName</th>
+                <th>StockExchange</th>
+                <th>PricePerShare</th>
+                <th>NoOfShares</th>
+                <th>OpenDateTime</th>
+                <th>Remarks</th>
+            </tr>
+        </thead> 
+        <tbody>
+            <tr *ngFor="let item of ipoList">
+                <td>{{item.id}}</td>
+                <td>{{item.companyName}}</td>
+                <td>{{item.stockExchange}}</td>
+                <td>{{item.pricePerShare}}</td>
+                <td>{{item.noOfShares}}</td>
+                <td>{{item.openDateTime}}</td>
+                <td>{{item.remarks}}</td>
+            </tr>
+        </tbody>
+    </table>
+    
+</div>
+
