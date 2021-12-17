@@ -9,7 +9,12 @@ namespace StockMarket.AccountAPI.Repositories
 {
     public class UserRepository : IUserRepository
     {
-        StockMarketDBContext db=new StockMarketDBContext();
+        //StockMarketDBContext db=new StockMarketDBContext();
+        private StockMarketDBContext db;
+        public UserRepository(StockMarketDBContext context)
+        {
+            this.db = context;
+        }
         public void AddUser(Users user)
         {
             db.Users.Add(user);
