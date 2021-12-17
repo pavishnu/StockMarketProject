@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AdYOiC6a3WTRcaDrEsmLssFEPXtbFtcygnlyZHCG952cIh8QewbJgsy3t26EUVIx75LgypdLkyEjOgk5vmqr6Q==",
+  "dgSpecHash": "rB6klFUF+Gdq42Y7+fHjbkZKt75bNt09Mxcf/vb7th6PmI05T/gr8bp1A2MBXFL+jrHFSdwj9ngfUN8DRwj5Yg==",
   "success": true,
-  "projectFilePath": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.UserAPI\\StockMarket.UserAPI.csproj",
+  "projectFilePath": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.UserAPI\\StockMarket.UserAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spavi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.6\\microsoft.aspnetcore.authentication.jwtbearer.3.1.6.nupkg.sha512",
     "C:\\Users\\spavi\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",

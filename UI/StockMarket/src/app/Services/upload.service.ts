@@ -19,7 +19,7 @@ export class UploadService {
     fd.append('image',selectedFile,selectedFile.name);
     console.log("formfa0"+fd);
     
-    return this.http.post(this.path+`/UploadData`, fd,Requestheaders);
+    return this.http.post(this.path+'/UploadData', fd,Requestheaders);
   }
 }
 

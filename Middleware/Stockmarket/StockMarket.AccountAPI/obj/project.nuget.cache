@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QLyzhLnC5W021pFasX6vAVwBRtXkk+0PPoIWB2ZFoNzUXeh0/yT9SO9m4VL0LGdCla8fuyETlkCQtfoVvLnyxQ==",
+  "dgSpecHash": "8OKDwD/sdvoHynvzzl7+swWKMXQNvQPP5Zu7OqRB2ieFiv0Mp2vb2cAKT4lNirxqQHmr6FKVz1vrWbY2sgmZSA==",
   "success": true,
-  "projectFilePath": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.AccountAPI\\StockMarket.AccountAPI.csproj",
+  "projectFilePath": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.AccountAPI\\StockMarket.AccountAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spavi\\.nuget\\packages\\log4net\\2.0.8\\log4net.2.0.8.nupkg.sha512",
     "C:\\Users\\spavi\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",

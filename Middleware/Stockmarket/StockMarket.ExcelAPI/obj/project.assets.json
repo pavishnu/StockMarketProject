@@ -7398,11 +7398,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.ExcelAPI\\StockMarket.ExcelAPI.csproj",
+      "projectUniqueName": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.ExcelAPI\\StockMarket.ExcelAPI.csproj",
       "projectName": "StockMarket.ExcelAPI",
-      "projectPath": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.ExcelAPI\\StockMarket.ExcelAPI.csproj",
+      "projectPath": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.ExcelAPI\\StockMarket.ExcelAPI.csproj",
       "packagesPath": "C:\\Users\\spavi\\.nuget\\packages\\",
-      "outputPath": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.ExcelAPI\\obj\\",
+      "outputPath": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.ExcelAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\spavi\\AppData\\Roaming\\NuGet\\NuGet.Config",

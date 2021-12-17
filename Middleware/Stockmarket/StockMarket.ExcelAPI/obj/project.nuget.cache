@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TTu04iTsqW7agh3zowC/W3AeeNh8Kb/mevc4y854v/3nPmtRiktJ/mPpnL5hl8l5hcoyZ11Mr/+TZXXYgjKp0g==",
+  "dgSpecHash": "8aJb+b4yN4Tm1MCqExFt1aA+dogXYLWCwjXZigt5rn9gMEg6Eu9XcYLS5NVqOPcd5xzsiPvohn+FBotZgJlVCg==",
   "success": true,
-  "projectFilePath": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.ExcelAPI\\StockMarket.ExcelAPI.csproj",
+  "projectFilePath": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.ExcelAPI\\StockMarket.ExcelAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spavi\\.nuget\\packages\\epplus.core\\1.5.4\\epplus.core.1.5.4.nupkg.sha512",
     "C:\\Users\\spavi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.6\\microsoft.aspnetcore.authentication.jwtbearer.3.1.6.nupkg.sha512",

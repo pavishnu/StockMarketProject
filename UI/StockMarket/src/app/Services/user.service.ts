@@ -21,14 +21,14 @@ export class UserService {
   }
 
   public Register(user: User):Observable<any> {
-    return this.http.post(this.path+`/AddUser`, user);
+    return this.http.post(this.path+'/AddUser', user);
   }
 
   public Update(user: User):Observable<any> {
-      return this.http.put(`/users/UpdateUser`, user,Requestheaders);
+      return this.http.put('/users/UpdateUser', user,Requestheaders);
   }
 
   public Delete(id: number):Observable<any> {
-      return this.http.delete(`/users/DeleteUser` + id,Requestheaders);
+      return this.http.delete('/users/DeleteUser' + id,Requestheaders);
   }
 }

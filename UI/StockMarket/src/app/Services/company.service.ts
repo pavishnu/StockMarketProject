@@ -27,14 +27,14 @@ editCompany:Company;
   }
 
   public Register(user: Company):Observable<any> {
-    return this.http.post(this.path+`/Company/AddCompany`, user,Requestheaders);
+    return this.http.post(this.path+'/Company/AddCompany', user,Requestheaders);
   }
 
   public Update(user: Company):Observable<any> {
-      return this.http.put(this.path+`/Company/UpdateCompany`, user,Requestheaders);
+      return this.http.put(this.path+'/Company/UpdateCompany', user,Requestheaders);
   }
 
   public Delete(id: number):Observable<any> {
-      return this.http.delete(this.path+`/Company/DeleteCompany/` + id,Requestheaders);
+      return this.http.delete(this.path+'/Company/DeleteCompany/' + id,Requestheaders);
   }
 }

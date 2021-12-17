@@ -27,14 +27,14 @@ export class ExchangeService {
   }
 
   public Register(user: Exchange):Observable<any> {
-    return this.http.post(this.path+`/StockExchange/AddStockExchange`, user,Requestheaders);
+    return this.http.post(this.path+'/StockExchange/AddStockExchange', user,Requestheaders);
   }
 
   public Update(user: Exchange):Observable<any> {
-      return this.http.put(this.path+`/StockExchange/UpdateStockExchange`, user,Requestheaders);
+      return this.http.put(this.path+'/StockExchange/UpdateStockExchange', user,Requestheaders);
   }
 
   public Delete(id: number):Observable<any> {
-      return this.http.delete(this.path+`/StockExchange/DeleteStockExchange/` + id,Requestheaders);
+      return this.http.delete(this.path+'/StockExchange/DeleteStockExchange/' + id,Requestheaders);
   }
 }

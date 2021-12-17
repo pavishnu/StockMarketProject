@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LXvm6lkDteJnSzHsS4zEYJS96LFHeBjwPkP5gBETMwJNpuwWsSlY0IhxTaJ9WFKOd0yQSCayaSrWkqC7FWNMgg==",
+  "dgSpecHash": "AUYlaaz+i8Ef65iXjBZKtLhxTdFN348evX2BiQgDkTPraG+Hi6b2DbzGaEk8e0ih/ZCh+9pFbRDjwZyMAtNmrg==",
   "success": true,
-  "projectFilePath": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarketAPITestMoq\\StockMarketAPITestMoq.csproj",
+  "projectFilePath": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarketAPITestMoq\\StockMarketAPITestMoq.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spavi\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\spavi\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

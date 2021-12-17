@@ -27,15 +27,15 @@ export class IpoService {
   }
 
   public Register(user: Ipo):Observable<any> {
-    return this.http.post(this.path+`/Ipo/AddIpo`, user,Requestheaders);
+    return this.http.post(this.path+'/Ipo/AddIpo', user,Requestheaders);
   }
 
   public Update(user: Ipo):Observable<any> {
-      return this.http.put(this.path+`/Ipo/UpdateIpo`, user,Requestheaders);
+      return this.http.put(this.path+'/Ipo/UpdateIpo', user,Requestheaders);
   }
 
   public Delete(id: number):Observable<any> {
-      return this.http.delete(this.path+`/Ipo/DeleteIpo/` + id,Requestheaders);
+      return this.http.delete(this.path+'/Ipo/DeleteIpo/' + id,Requestheaders);
   }
 }
 

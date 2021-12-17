@@ -9427,11 +9427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarketAPITestMoq\\StockMarketAPITestMoq.csproj",
+      "projectUniqueName": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarketAPITestMoq\\StockMarketAPITestMoq.csproj",
       "projectName": "StockMarketAPITestMoq",
-      "projectPath": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarketAPITestMoq\\StockMarketAPITestMoq.csproj",
+      "projectPath": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarketAPITestMoq\\StockMarketAPITestMoq.csproj",
       "packagesPath": "C:\\Users\\spavi\\.nuget\\packages\\",
-      "outputPath": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarketAPITestMoq\\obj\\",
+      "outputPath": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarketAPITestMoq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\spavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9448,14 +9448,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.AccountAPI\\StockMarket.AccountAPI.csproj": {
-              "projectPath": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.AccountAPI\\StockMarket.AccountAPI.csproj"
+            "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.AccountAPI\\StockMarket.AccountAPI.csproj": {
+              "projectPath": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.AccountAPI\\StockMarket.AccountAPI.csproj"
             },
-            "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.AdminAPI\\StockMarket.AdminAPI.csproj": {
-              "projectPath": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.AdminAPI\\StockMarket.AdminAPI.csproj"
+            "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.AdminAPI\\StockMarket.AdminAPI.csproj": {
+              "projectPath": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.AdminAPI\\StockMarket.AdminAPI.csproj"
             },
-            "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.UserAPI\\StockMarket.UserAPI.csproj": {
-              "projectPath": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.UserAPI\\StockMarket.UserAPI.csproj"
+            "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.UserAPI\\StockMarket.UserAPI.csproj": {
+              "projectPath": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.UserAPI\\StockMarket.UserAPI.csproj"
             }
           }
         }

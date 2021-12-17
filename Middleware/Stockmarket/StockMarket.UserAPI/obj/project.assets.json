@@ -6175,11 +6175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.UserAPI\\StockMarket.UserAPI.csproj",
+      "projectUniqueName": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.UserAPI\\StockMarket.UserAPI.csproj",
       "projectName": "StockMarket.UserAPI",
-      "projectPath": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.UserAPI\\StockMarket.UserAPI.csproj",
+      "projectPath": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.UserAPI\\StockMarket.UserAPI.csproj",
       "packagesPath": "C:\\Users\\spavi\\.nuget\\packages\\",
-      "outputPath": "D:\\Training\\Web API\\StockmarketCharting\\Middleware\\Stockmarket\\StockMarket.UserAPI\\obj\\",
+      "outputPath": "C:\\Users\\spavi\\OneDrive\\Desktop\\StockMarketProject\\Middleware\\Stockmarket\\StockMarket.UserAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\spavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
