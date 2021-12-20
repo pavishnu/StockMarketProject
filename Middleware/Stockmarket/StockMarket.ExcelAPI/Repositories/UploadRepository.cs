@@ -14,8 +14,13 @@ namespace StockMarket.ExcelAPI.Repositories
     public class UploadRepository : IUploadRepository
     {
         private readonly IHostingEnvironment _hostingEnvironment;
-        StockMarketDBContext _db = new StockMarketDBContext();
-        
+        //StockMarketDBContext _db = new StockMarketDBContext();
+        private StockMarketDBContext _db;
+        public UploadRepository(StockMarketDBContext context)
+        {
+            this._db = context;
+        }
+
         public IList<StockPrice> ImportStockPrice(string filePath)
         {
 

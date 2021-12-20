@@ -17,7 +17,12 @@ namespace StockMarket.ExcelAPI.Controllers
     [Authorize]
     public class UploadController : ControllerBase
     {
-        UploadService service = new UploadService();
+        private UploadService service;
+        public UploadController(UploadService context)
+        {
+            this.service = context;
+        }
+        //UploadService service = new UploadService();
         [HttpPost]
         [Route("UploadData")]
         public IActionResult UploadExcel()

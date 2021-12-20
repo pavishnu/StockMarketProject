@@ -15,9 +15,11 @@ const Requestheaders={headers:new HttpHeaders({
 export class UserService {
 
   constructor(private http:HttpClient) { }
-  path=environment.path+"/User"
+  path=environment.path+"/api/User"
   public Login(email:string,password:string):Observable<any>{
     return this.http.get<User[]>(this.path+"/Login/"+email+"/"+password);
+
+    ///api/User/Login/{email}
   }
 
   public Register(user: User):Observable<any> {

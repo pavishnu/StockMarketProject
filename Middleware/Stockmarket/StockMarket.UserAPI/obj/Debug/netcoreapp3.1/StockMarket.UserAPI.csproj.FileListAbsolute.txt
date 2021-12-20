@@ -270,7 +270,6 @@ C:\Users\spavi\OneDrive\Desktop\StockMarketProject\Middleware\Stockmarket\StockM
 C:\Users\spavi\OneDrive\Desktop\StockMarketProject\Middleware\Stockmarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\spavi\OneDrive\Desktop\StockMarketProject\Middleware\Stockmarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\spavi\OneDrive\Desktop\StockMarketProject\Middleware\Stockmarket\StockMarket.UserAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\spavi\OneDrive\Desktop\StockMarketProject\Middleware\Stockmarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.csproj.AssemblyReference.cache
 C:\Users\spavi\OneDrive\Desktop\StockMarketProject\Middleware\Stockmarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\spavi\OneDrive\Desktop\StockMarketProject\Middleware\Stockmarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.AssemblyInfoInputs.cache
 C:\Users\spavi\OneDrive\Desktop\StockMarketProject\Middleware\Stockmarket\StockMarket.UserAPI\obj\Debug\netcoreapp3.1\StockMarket.UserAPI.AssemblyInfo.cs

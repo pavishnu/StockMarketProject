@@ -8,7 +8,12 @@ namespace StockMarket.AdminAPI.Repositories
 {
     public class StockExchangeRepository : IStockExchangeRepository
     {
-        StockMarketDBContext db = new StockMarketDBContext();
+        //StockMarketDBContext db = new StockMarketDBContext();
+        private StockMarketDBContext db;
+        public StockExchangeRepository(StockMarketDBContext context)
+        {
+            this.db = context;
+        }
         public void AddSE(StockExchange value)
         {
             db.StockExchange.Add(value);

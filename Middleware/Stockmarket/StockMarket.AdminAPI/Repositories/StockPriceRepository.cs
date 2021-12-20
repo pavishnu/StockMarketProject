@@ -8,7 +8,12 @@ namespace StockMarket.AdminAPI.Repositories
 {
     public class StockPriceRepository : IStockPriceRepository
     {
-        StockMarketDBContext db = new StockMarketDBContext();
+        //StockMarketDBContext db = new StockMarketDBContext();
+        private StockMarketDBContext db;
+        public StockPriceRepository(StockMarketDBContext context)
+        {
+            this.db = context;
+        }
         public void AddStockPrice(StockPrice value)
         {
             db.StockPrice.Add(value);

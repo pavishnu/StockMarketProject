@@ -8,7 +8,12 @@ namespace StockMarket.AdminAPI.Repositories
 {
     public class IpoRepository : IIpoRepository
     {
-        StockMarketDBContext db = new StockMarketDBContext();
+        //StockMarketDBContext db = new StockMarketDBContext();
+        private StockMarketDBContext db;
+        public IpoRepository(StockMarketDBContext context)
+        {
+            this.db = context;
+        }
         public void AddIpo(Ipo value)
         {
             db.Ipo.Add(value);

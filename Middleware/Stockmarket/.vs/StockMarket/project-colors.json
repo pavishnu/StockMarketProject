@@ -25,7 +25,12 @@
       "ProjectGuid": "09ed7a72-977d-4489-817b-1cacec154ae1",
       "DisplayName": "StockMarket.UserAPI",
       "ColorIndex": 4
+    },
+    "cac20173-1e51-4e73-aeb4-6651df6e1759": {
+      "ProjectGuid": "cac20173-1e51-4e73-aeb4-6651df6e1759",
+      "DisplayName": "StockMarketAPITestMoq",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
